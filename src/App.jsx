@@ -1,7 +1,7 @@
 import './App.css'
-import MeuContador from './components/MeuContador'
-import MinhaLista from './components/MinhaLista'
-import ConsumindoAPI from './components/consumindoAPI'
+import MeuContador from '/components/MeuContador'
+import MinhaLista from '/components/MinhaLista'
+import ConsumindoAPI from '/components/consumindoAPI'
 
 function App() {
 
